@@ -1,5 +1,4 @@
-# pwm_vhdl_sim
-Simulação de um PWM em VHDL
+# Simulação de um PWM em VHDL
 
 Ambos os arquivos foram desenvolvidos com base no curso do Jordan Christman, com algumas mudanças.
 
